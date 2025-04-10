@@ -1,0 +1,10 @@
+[Wed Apr 09 11:57:39.074491 2025] [fcgid:warn] [pid 16720:tid 1384] (OS 109)The pipe has been ended.  : [client 127.0.0.1:14918] mod_fcgid: get overlap result error
+[Wed Apr 09 11:57:39.082491 2025] [core:error] [pid 16720:tid 1384] [client 127.0.0.1:14918] End of script output before headers: index.php
+[Wed Apr 09 12:04:23.574088 2025] [fcgid:warn] [pid 16720:tid 1384] (OS 109)The pipe has been ended.  : [client 127.0.0.1:1128] mod_fcgid: get overlap result error
+[Wed Apr 09 12:04:23.574088 2025] [core:error] [pid 16720:tid 1384] [client 127.0.0.1:1128] End of script output before headers: index.php
+[Wed Apr 09 12:04:58.533271 2025] [fcgid:warn] [pid 16720:tid 1384] (OS 109)The pipe has been ended.  : [client 127.0.0.1:1142] mod_fcgid: get overlap result error
+[Wed Apr 09 12:04:58.533271 2025] [core:error] [pid 16720:tid 1384] [client 127.0.0.1:1142] End of script output before headers: index.php
+[Wed Apr 09 12:05:03.369604 2025] [fcgid:warn] [pid 16720:tid 1384] (OS 109)The pipe has been ended.  : [client 127.0.0.1:1144] mod_fcgid: get overlap result error
+[Wed Apr 09 12:05:03.369604 2025] [core:error] [pid 16720:tid 1384] [client 127.0.0.1:1144] End of script output before headers: index.php
+[Wed Apr 09 12:06:29.218288 2025] [fcgid:warn] [pid 16720:tid 1384] (OS 109)The pipe has been ended.  : [client 127.0.0.1:1163] mod_fcgid: get overlap result error
+[Wed Apr 09 12:06:29.218288 2025] [core:error] [pid 16720:tid 1384] [client 127.0.0.1:1163] End of script output before headers: index.php
